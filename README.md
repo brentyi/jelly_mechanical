@@ -1,3 +1,3 @@
 # jelly_mechanical
 
-![dog_render](images/dog_render_preview_april20.JPG)
+![dog_render](images/dog_render_may9.JPG)
